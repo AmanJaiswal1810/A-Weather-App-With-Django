@@ -1,0 +1,1 @@
+Hey Guys this is my second Django project. Today i developed a site where you can get all the details of the weather of  particular city. In this project we used the openweathermap.org api for fetching real time data of the city. A simple but useful project.
